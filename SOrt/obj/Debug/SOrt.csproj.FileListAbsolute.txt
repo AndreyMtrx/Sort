@@ -1,0 +1,6 @@
+C:\Users\Андрей\source\repos\SOrt\SOrt\obj\Debug\SOrt.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\SOrt\SOrt\bin\Debug\SOrt.exe.config
+C:\Users\Андрей\source\repos\SOrt\SOrt\bin\Debug\SOrt.exe
+C:\Users\Андрей\source\repos\SOrt\SOrt\bin\Debug\SOrt.pdb
+C:\Users\Андрей\source\repos\SOrt\SOrt\obj\Debug\SOrt.exe
+C:\Users\Андрей\source\repos\SOrt\SOrt\obj\Debug\SOrt.pdb
